@@ -1,0 +1,28 @@
+# Creative Commons Attribution 4.0 International
+
+SPDX-License-Identifier: CC-BY-4.0
+
+Copyright (c) 2026 AIYucha Research.
+
+Unless a file or directory states otherwise, the research text, documentation, methodological notes, codebooks, and other non-software research content in this repository are licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+
+Under CC BY 4.0, you may share and adapt the licensed material for any purpose, including commercial use, provided that you give appropriate credit, provide a link to the license, and indicate whether changes were made. You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Canonical license information:
+https://creativecommons.org/licenses/by/4.0/
+
+Full legal code:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+## Attribution
+
+A suitable attribution is:
+
+> AIYucha Research, "Historical Assets and China-Market Risk Signals in Pre-Release Domains: Research Protocol", Version 1.0, Zenodo, DOI: 10.5281/zenodo.22962144.
+
+Research page:
+https://aiyucha.com/zh/publications/pre-release-domain-risk-study
+
+## Software scope
+
+This repository is currently centered on research text and reproducibility documentation. If software source code is published later, it may use a separate software license stated in the relevant file or directory. This CC BY 4.0 notice should not be interpreted as silently assigning a software license to future code that explicitly declares another license.
