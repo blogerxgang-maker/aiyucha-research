@@ -8,6 +8,7 @@ AIYucha Research documents how historical domain assets and China-market risk si
 - **Research page:** https://aiyucha.com/zh/publications/pre-release-domain-risk-study
 - **AIYucha tools:** https://aiyucha.com
 - **Zenodo record:** https://zenodo.org/doi/10.5281/zenodo.22962144
+- **Zenodo community:** https://zenodo.org/communities/aiyucha-research
 
 > Want to inspect a real domain rather than only read the protocol? Use the live domain-intelligence tools at **https://aiyucha.com**. The research page links directly to the relevant history, backlink, ICP, mainland-access, WeChat-access, DNS, custom-workflow, and deeper-analysis entry points.
 
@@ -89,7 +90,7 @@ A typical research release follows this sequence:
 9. Compute SHA-256 checksums for released artifacts.
 10. Publish the protocol, codebook, dataset notes, and analysis assets together.
 
-See [REPRODUCIBILITY.md](REPRODUCIBILITY.md) and [CODEBOOK.md](CODEBOOK.md) for the repository-level documentation.
+See [REPRODUCIBILITY.md](REPRODUCIBILITY.md) and [CODEBOOK.md](CODEBOOK.md) for the repository-level documentation. The first 100-domain pilot rules are frozen in [PILOT_ANALYSIS_PLAN.md](PILOT_ANALYSIS_PLAN.md) before any pilot dataset is analyzed.
 
 ## Using AIYucha on a real domain
 
@@ -103,7 +104,9 @@ AIYucha supplies the research tooling, evidence organization, and reproducibilit
 
 ## Planned research releases
 
-This repository will grow only as real assets are ready. Planned additions include:
+This repository will grow only as real assets are ready. The analysis rules for the first 100-domain pilot are already frozen in [PILOT_ANALYSIS_PLAN.md](PILOT_ANALYSIS_PLAN.md); the pilot dataset itself has **not** yet been published.
+
+Planned additions include:
 
 - a pilot dataset release produced from the research-export workflow;
 - a versioned codebook/data dictionary;
@@ -133,6 +136,8 @@ See [LICENSE](LICENSE).
 - AIYucha: https://aiyucha.com
 - DOI: https://doi.org/10.5281/zenodo.22962144
 - Zenodo: https://zenodo.org/doi/10.5281/zenodo.22962144
+- AIYucha Research community on Zenodo: https://zenodo.org/communities/aiyucha-research
+- Frozen 100-domain pilot analysis plan: [PILOT_ANALYSIS_PLAN.md](PILOT_ANALYSIS_PLAN.md)
 
 ---
 
