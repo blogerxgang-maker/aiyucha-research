@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this research or its reproducibility assets, please cite the Zenodo technical note."
+title: "Historical Assets and China-Market Risk Signals in Pre-Release Domains: Research Protocol"
+authors:
+  - name: "AIYucha Research"
+version: "1.0"
+doi: "10.5281/zenodo.22962144"
+date-released: 2026-09-25
+license: "CC-BY-4.0"
+repository-code: "https://github.com/blogerxgang-maker/aiyucha-research"
+url: "https://aiyucha.com/zh/publications/pre-release-domain-risk-study"
+keywords:
+  - "AIYucha"
+  - "domain intelligence"
+  - "pre-release domains"
+  - "domain due diligence"
+  - "reproducible research"
+  - "backlink analysis"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22962144"
+    description: "Zenodo DOI for version 1.0 of the technical note"
